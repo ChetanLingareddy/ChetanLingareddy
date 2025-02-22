@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**ChetanLingareddy/ChetanLingareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<### Hi there! 👋 I'm Chetan Lingareddy  
 
-Here are some ideas to get you started:
+🚀 **Aspiring Data Engineer | Full Stack Developer | Backend Developer**  
+🔥 Passionate about building scalable systems & solving real-world data challenges  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+🐍 Python | SQL | React.js | Flask | PostgreSQL | AWS | Pandas  
+
+### 📌 What I'm Working On  
+- 🚀 **PySpark** for big data processing  
+- ⚡ Advanced **PostgreSQL** & query optimization  
+- 🌐 Deepening my skills in **React.js** for frontend development  
+- 📊 Building data-driven applications & backend solutions  
+- ⚡ Automating workflows & processing large datasets  
+
+### 📂 Projects & Contributions  
+Check out my work: [GitHub Projects](https://github.com/ChetanLingareddy)  
+
+### 📫 Let's Connect!  
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chetan-lingareddy-106992218/))  
+📧 Reach me at: lchetanreddy2001@example.com  
+
+---
+
+🔍 Always open to learning, collaboration, and new opportunities!
