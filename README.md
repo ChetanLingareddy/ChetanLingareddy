@@ -18,7 +18,7 @@
 Check out my work: [GitHub Projects](https://github.com/ChetanLingareddy)  
 
 ### 📫 Let's Connect!  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chetan-lingareddy-106992218/))  
+🔗 [LinkedIn]((https://www.linkedin.com/in/chetan-lingareddy-106992218/))  
 📧 Reach me at: lchetanreddy2001@example.com  
 
 ---
